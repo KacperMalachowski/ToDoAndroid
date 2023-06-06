@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sortOptions">
+        <item>Alphabetically</item>
+        <item>Due Date</item>
+        <item>Priority</item>
+        <item>Completion</item>
+    </string-array>
+</resources>
